@@ -123,10 +123,4 @@ No keys, no `.env`, no ID hardcoding. The command discovers your workspace on fi
 
 ---
 
-## License
-
-MIT. See [LICENSE](./LICENSE).
-
----
-
 *Built with Claude Code and the Peec MCP server. Originally developed as a submission to the [Peec MCP Challenge](https://peec.ai/mcp-challenge) — Competitive Analysis category. `#BuiltWithPeec`*
